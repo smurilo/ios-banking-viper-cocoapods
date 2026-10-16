@@ -1,0 +1,15 @@
+# XcodeGen: `xcodegen && pod install && open BankApp.xcworkspace`
+name: BankApp
+options:
+  bundleIdPrefix: com.smsmurilo
+  deploymentTarget: { iOS: "15.0" }
+targets:
+  BankApp:
+    type: application
+    platform: iOS
+    sources: [BankApp]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.smsmurilo.bankapp
+        INFOPLIST_FILE: BankApp/Info.plist
+        SWIFT_VERSION: "5.9"
