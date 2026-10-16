@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'FeatureStatement'
   s.version      = '1.0.0'
   s.summary      = 'Módulo VIPER de extrato.'
-  s.homepage     = 'https://github.com/smsmurilo/ios-banking-viper-cocoapods'
+  s.homepage     = 'https://github.com/smurilo/ios-banking-viper-cocoapods'
   s.license      = { :type => 'MIT' }
   s.author       = { 'Sérgio Murilo' => 'smsmurilo@gmail.com' }
   s.source       = { :path => '.' }

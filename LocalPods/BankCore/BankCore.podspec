@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'BankCore'
   s.version      = '1.0.0'
   s.summary      = 'Modelos de domínio e regras de negócio (Foundation puro).'
-  s.homepage     = 'https://github.com/smsmurilo/ios-banking-viper-cocoapods'
+  s.homepage     = 'https://github.com/smurilo/ios-banking-viper-cocoapods'
   s.license      = { :type => 'MIT' }
   s.author       = { 'Sérgio Murilo' => 'smsmurilo@gmail.com' }
   s.source       = { :path => '.' }

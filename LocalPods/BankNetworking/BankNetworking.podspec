@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'BankNetworking'
   s.version      = '1.0.0'
   s.summary      = 'Cliente HTTP async/await, endpoints e serviços da API.'
-  s.homepage     = 'https://github.com/smsmurilo/ios-banking-viper-cocoapods'
+  s.homepage     = 'https://github.com/smurilo/ios-banking-viper-cocoapods'
   s.license      = { :type => 'MIT' }
   s.author       = { 'Sérgio Murilo' => 'smsmurilo@gmail.com' }
   s.source       = { :path => '.' }
